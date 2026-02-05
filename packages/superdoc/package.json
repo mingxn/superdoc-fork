@@ -7,12 +7,12 @@
   "license": "AGPL-3.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mingnho/superdoc-fork.git",
+    "url": "git+https://github.com/mingxn/superdoc-fork.git",
     "directory": "packages/superdoc"
   },
-  "homepage": "https://github.com/mingnho/superdoc-fork",
+  "homepage": "https://github.com/mingxn/superdoc-fork",
   "bugs": {
-    "url": "https://github.com/mingnho/superdoc-fork/issues"
+    "url": "https://github.com/mingxn/superdoc-fork/issues"
   },
   "readme": "../../README.md",
   "files": [
