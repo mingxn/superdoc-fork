@@ -1,7 +1,7 @@
 {
   "name": "superdoc-fork",
   "type": "module",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Fork of SuperDoc - an open source document editor with Microsoft Word capabilities, real-time collaboration, and easy integration",
   "keywords": ["superdoc", "document", "editor", "docx", "word", "collaboration", "prosemirror"],
   "license": "AGPL-3.0",
